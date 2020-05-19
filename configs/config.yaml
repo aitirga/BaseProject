@@ -1,11 +1,13 @@
 base:
   path:
     data: "data/folder"
-    logs: "logs"
-    log_config: "logging_config.yml"
+    logs: "./logs"
+    log_config: "configs/config_logging.yml"
 
 dev:
-  parameters:
+  parameters: test
+  name: dev
 
 prod:
-  parameters:
+  parameters: test
+  name: prod

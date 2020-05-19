@@ -5,7 +5,7 @@ __pycache__/
 *PyPhreeqc
 # C extensions
 *.so
-
+*logs
 # Distribution / packaging
 .Python
 build/
@@ -102,7 +102,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+baseproject/.env
 .venv
 env/
 venv/

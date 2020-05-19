@@ -1,0 +1,8 @@
+train:
+  sampler_module: baseproject.model.samplers.BaseSampler
+  sampler_params:
+    test_param:
+  trainer_module: baseproject.model.trainers.BaseTrainer
+  trainer_params:
+    test_param: test
+
