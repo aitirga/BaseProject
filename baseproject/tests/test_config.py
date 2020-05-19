@@ -3,7 +3,6 @@ from baseproject.config import cfg
 import yaml
 import os
 import logging
-logging.disable()
 
 
 class ConfigCase(unittest.TestCase):

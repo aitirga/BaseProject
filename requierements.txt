@@ -1,7 +1,0 @@
-python-box
-pandas
-numpy
-seaborn
-matplotlib
-pyyaml
-python-dotenv
