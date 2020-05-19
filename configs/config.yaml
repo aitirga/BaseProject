@@ -1,0 +1,11 @@
+base:
+  path:
+    data: "data/folder"
+    logs: "logs"
+    log_config: "logging_config.yml"
+
+dev:
+  parameters:
+
+prod:
+  parameters:
